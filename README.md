@@ -40,7 +40,6 @@ Jika perintah `python` tidak bisa digunakan, saya dapat mencoba perintah `python
 
 Fungsi perhitungan menggunakan `return` agar hasilnya dapat digunakan kembali dalam proses lain. Variabel lokal digunakan untuk menyimpan data yang diperlukan selama fungsi berjalan.
 
-
 ## Hasil Pengujian
 
 Berikut beberapa hasil yang digunakan untuk menguji program.
@@ -49,7 +48,6 @@ Berikut beberapa hasil yang digunakan untuk menguji program.
 |---|---|---|
 | Luas persegi panjang | 8 dan 5 | 40 |
 | Jumlah bilangan | n = 10 | 55 |
-| Statistik sederhana | 70, 80, 65, 90, 75 | Min = 65, maks = 90, rata-rata = 76 |
 | Luas segitiga | Alas 10, tinggi 6 | 30.0 |
 | Faktorial | n = 5 | 120 |
 | Faktorial | n = 0 | 1 |
